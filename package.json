@@ -1,6 +1,7 @@
 {
   "name": "kahan",
   "version": "0.0.2",
+  "description": "Kahan summation algorithm for node.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/viktors/node-kahan.git"
